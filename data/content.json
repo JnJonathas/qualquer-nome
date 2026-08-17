@@ -1,0 +1,312 @@
+{
+  "updatedAt": "2026-08-14T14:54:16.599Z",
+  "business": {
+    "name": "DN Cell Point",
+    "tagline": "Assistência especializada em smartphones",
+    "phone": "5521964794756",
+    "phoneDisplay": "(21) 96479-4756",
+    "email": "dncell.point@gmail.com",
+    "instagram": "https://www.instagram.com/dncell.point/",
+    "instagramHandle": "@dncell.point",
+    "location": "Itaipuaçu, Maricá — RJ",
+    "mapQuery": "Itaipuaçu, Maricá - RJ",
+    "areas": [
+      "Maricá",
+      "Niterói",
+      "São Gonçalo"
+    ],
+    "hours": "Informação a confirmar",
+    "address": "Informação a confirmar",
+    "deliveryNote": "Disponibilidade, área e eventual taxa são confirmadas pelo WhatsApp.",
+    "warrantyNote": "O perfil informa conserto com garantia. Prazo e cobertura são confirmados no orçamento."
+  },
+  "settings": {
+    "carouselAutoplaySeconds": 7,
+    "showAccessories": true,
+    "showGallery": true,
+    "showMap": true,
+    "conceptNotice": "Feito por — JN Santos Web Studio"
+  },
+  "slides": [
+    {
+      "id": "marca-dn",
+      "active": true,
+      "eyebrow": "Assistência especializada em smartphones",
+      "title": "Conserto, proteção e cuidado para o seu celular.",
+      "description": "Assistência especializada, capas, películas e acessórios com atendimento para Maricá, Niterói e São Gonçalo.",
+      "buttonLabel": "Pedir avaliação",
+      "buttonUrl": "#orcamento",
+      "secondaryLabel": "Visitar a lojinha",
+      "secondaryUrl": "#acessorios",
+      "image": "/assets/carousel-oficina-oficial.png",
+      "imageAlt": "Celulares, capa, película e ferramentas em bancada de assistência",
+      "theme": "brand"
+    },
+    {
+      "id": "busca-entrega",
+      "active": true,
+      "eyebrow": "Mais comodidade para sua rotina",
+      "title": "Buscamos e entregamos o seu aparelho em domicílio.",
+      "description": "Consulte disponibilidade para Maricá, Niterói e São Gonçalo. Local, horário e eventual taxa são confirmados no WhatsApp.",
+      "buttonLabel": "Consultar coleta",
+      "buttonUrl": "#busca-entrega",
+      "secondaryLabel": "Como funciona",
+      "secondaryUrl": "#como-funciona",
+      "image": "/assets/carousel-busca-entrega-oficial.png",
+      "imageAlt": "Profissional realizando busca e entrega segura de aparelho",
+      "theme": "delivery"
+    },
+    {
+      "id": "promocao-capa-pelicula",
+      "active": true,
+      "eyebrow": "Promoção DN Cell Point",
+      "title": "Conserto a partir de R$ 100 ganha capa e película.",
+      "description": "Faça o reparo do seu aparelho e aproveite o presente. Consulte modelos disponíveis e condições da promoção pelo WhatsApp.",
+      "buttonLabel": "Consultar promoção",
+      "buttonUrl": "#orcamento",
+      "secondaryLabel": "Ver a lojinha",
+      "secondaryUrl": "#acessorios",
+      "image": "/assets/carousel-promocao-oficial.png",
+      "imageAlt": "Celular reparado acompanhado de capa e película",
+      "theme": "promo"
+    }
+  ],
+  "services": [
+    {
+      "id": "tela",
+      "active": true,
+      "icon": "⌁",
+      "title": "Troca de tela",
+      "description": "Para telas trincadas, sem imagem ou com falhas no toque. Informe o modelo para solicitar uma avaliação.",
+      "featured": true
+    },
+    {
+      "id": "bateria",
+      "active": true,
+      "icon": "ϟ",
+      "title": "Troca de bateria",
+      "description": "Para baixa autonomia, desligamentos inesperados ou outros sinais que precisam de diagnóstico.",
+      "featured": false
+    },
+    {
+      "id": "conector",
+      "active": true,
+      "icon": "⌁",
+      "title": "Conector de carga",
+      "description": "Avaliação quando o aparelho não carrega, apresenta mau contato ou falhas no conector.",
+      "featured": false
+    },
+    {
+      "id": "camera",
+      "active": true,
+      "icon": "◉",
+      "title": "Câmera",
+      "description": "Diagnóstico de câmera sem imagem, com foco irregular ou outros problemas de funcionamento.",
+      "featured": false
+    },
+    {
+      "id": "microfone",
+      "active": true,
+      "icon": "◌",
+      "title": "Microfone e som",
+      "description": "Avaliação de microfone, alto-falante, áudio em chamadas e falhas relacionadas.",
+      "featured": false
+    },
+    {
+      "id": "molhado",
+      "active": true,
+      "icon": "≈",
+      "title": "Aparelho molhado e sistema",
+      "description": "Diagnóstico para contato com líquido e falhas de sistema. O aparelho precisa ser avaliado.",
+      "featured": false
+    },
+    {
+      "id": "outros",
+      "active": true,
+      "icon": "＋",
+      "title": "Outros reparos",
+      "description": "Face ID, digital e outros problemas podem ser consultados diretamente com a equipe.",
+      "featured": false
+    }
+  ],
+  "accessories": [
+    {
+      "id": "capas",
+      "active": true,
+      "icon": "▣",
+      "title": "Capas para celular",
+      "description": "Escolha o modelo no catálogo e confirme cores e compatibilidade pelo WhatsApp.",
+      "image": "/assets/produto-capas-v2.webp",
+      "imageAlt": "Modelos conceituais de capas para celular"
+    },
+    {
+      "id": "peliculas",
+      "active": true,
+      "icon": "◇",
+      "title": "Películas",
+      "description": "Películas para proteger a tela. O tipo e o modelo compatível são confirmados no atendimento.",
+      "image": "/assets/produto-peliculas-v2.webp",
+      "imageAlt": "Películas de vidro para celular"
+    },
+    {
+      "id": "carregadores",
+      "active": true,
+      "icon": "ϟ",
+      "title": "Carregadores",
+      "description": "Consulte opções de carregamento e compatibilidade com o seu aparelho.",
+      "image": "/assets/produto-carregadores-v2.webp",
+      "imageAlt": "Carregador de parede e cabo"
+    },
+    {
+      "id": "cabos",
+      "active": true,
+      "icon": "⌁",
+      "title": "Cabos",
+      "description": "Cabos para diferentes conexões. Confirme o padrão correto e a disponibilidade.",
+      "image": "/assets/produto-cabos-v2.webp",
+      "imageAlt": "Cabos para carregamento de celulares"
+    },
+    {
+      "id": "fones",
+      "active": true,
+      "icon": "◉",
+      "title": "Fones de ouvido",
+      "description": "Opções com e sem fio sujeitas à disponibilidade no atendimento.",
+      "image": "/assets/produto-fones-v2.webp",
+      "imageAlt": "Fones de ouvido com e sem fio"
+    },
+    {
+      "id": "suportes",
+      "active": true,
+      "icon": "◇",
+      "title": "Suportes para celular",
+      "description": "Suportes para carro ou mesa. Consulte os modelos disponíveis.",
+      "image": "/assets/produto-suportes-v2.webp",
+      "imageAlt": "Suportes para celular em carro e mesa"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "bateria-real",
+      "active": true,
+      "category": "Bateria",
+      "title": "Avaliação e substituição",
+      "image": "/assets/bateria-reparo.jpg",
+      "alt": "Celular ligado em bancada técnica com bateria removida ao lado"
+    },
+    {
+      "id": "tela-real",
+      "active": true,
+      "category": "Tela",
+      "title": "Reparo em destaque",
+      "image": "/assets/tela-reparada.jpg",
+      "alt": "Celular em funcionamento e peça de tela sobre bancada"
+    },
+    {
+      "id": "entrega-real",
+      "active": true,
+      "category": "Comodidade",
+      "title": "Atendimento combinado",
+      "image": "/assets/atendimento-entrega.jpg",
+      "alt": "Celular em mãos durante atendimento externo"
+    },
+    {
+      "id": "trabalho-real-04",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Aparelho testado em bancada",
+      "image": "/assets/trabalho-real-04.jpg",
+      "alt": "Celular funcionando após atendimento na bancada da DN Cell Point"
+    },
+    {
+      "id": "trabalho-real-05",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Tela funcionando após o serviço",
+      "image": "/assets/trabalho-real-05.jpg",
+      "alt": "Celular com tela ligada em bancada técnica da DN Cell Point"
+    },
+    {
+      "id": "trabalho-real-06",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Verificação final do aparelho",
+      "image": "/assets/trabalho-real-06.jpg",
+      "alt": "Celular ligado durante verificação final na bancada"
+    },
+    {
+      "id": "trabalho-real-cliente-01",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Aparelho funcionando após o atendimento",
+      "image": "/assets/trabalho-real-cliente-01.jpg",
+      "alt": "Celular Android ligado sobre a bancada técnica azul da DN Cell Point"
+    },
+    {
+      "id": "trabalho-real-cliente-02",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Teste final de tela e funcionamento",
+      "image": "/assets/trabalho-real-cliente-02.jpg",
+      "alt": "Celular com tela ligada durante teste final na bancada técnica"
+    },
+    {
+      "id": "trabalho-real-cliente-03",
+      "active": true,
+      "category": "Reparo real",
+      "title": "Verificação final em aparelho reparado",
+      "image": "/assets/trabalho-real-cliente-03.jpg",
+      "alt": "Smartphone ligado sendo verificado sobre a bancada da assistência"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "areas",
+      "active": true,
+      "question": "Quais cidades são atendidas?",
+      "answer": "A empresa divulga atendimento em Maricá, Niterói e São Gonçalo. Para outras localidades, consulte a equipe."
+    },
+    {
+      "id": "entrega",
+      "active": true,
+      "question": "Vocês buscam e entregam o aparelho?",
+      "answer": "Sim. Disponibilidade, área atendida e eventual taxa são confirmadas diretamente pelo WhatsApp."
+    },
+    {
+      "id": "preco",
+      "active": true,
+      "question": "Quanto custa o conserto?",
+      "answer": "O valor depende do modelo, do defeito e da peça necessária. Envie os dados do aparelho para receber uma avaliação."
+    },
+    {
+      "id": "prazo",
+      "active": true,
+      "question": "Qual é o prazo do serviço?",
+      "answer": "O prazo varia conforme o diagnóstico e a disponibilidade de peça. A equipe confirma antes de iniciar."
+    },
+    {
+      "id": "garantia",
+      "active": true,
+      "question": "O serviço tem garantia?",
+      "answer": "O perfil informa conserto com garantia. Prazo, cobertura e condições específicas são confirmados no orçamento."
+    },
+    {
+      "id": "orcamento",
+      "active": true,
+      "question": "Como pedir uma avaliação?",
+      "answer": "Preencha o formulário do site. Ele monta a mensagem com cidade, aparelho e problema e abre o WhatsApp oficial."
+    },
+    {
+      "id": "lojinha",
+      "active": true,
+      "question": "Como comprar pela lojinha?",
+      "answer": "Adicione os produtos ao carrinho e envie a lista pelo WhatsApp. A equipe confirma modelos compatíveis, disponibilidade e valores antes do pedido."
+    },
+    {
+      "id": "promocao-capa-pelicula",
+      "active": true,
+      "question": "Como funciona a promoção da capa e película?",
+      "answer": "Em consertos a partir de R$ 100, a promoção informa capa e película como presente. Consulte a equipe para confirmar os modelos disponíveis e as condições no momento do atendimento."
+    }
+  ]
+}
